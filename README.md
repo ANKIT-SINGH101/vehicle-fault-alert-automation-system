@@ -4,9 +4,9 @@
 
 Every morning, two engineers spent 3–4 hours each going through error spikes on four monitoring dashboards. They checked them minute by minute, copied them into Excel and matched each one by hand against a catalogue of known faults. This system does that work in a single run, and leaves people only the spikes a machine can't classify with confidence.
 
-[![Watch the 30-second demo](media/demo-poster.jpg)](media/demo.mp4)
+[![Watch the 30-second demo](media/demo.gif)](media/demo.mp4)
 
-<sub>30-second walkthrough: the operator app, the pipeline, spike classification and safe pattern updates. Click to play.</sub>
+<sub>30-second walkthrough: the operator app, the pipeline, spike classification and safe pattern updates. Silent preview; click for the full video with sound.</sub>
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-IaC-FF9900?logo=amazonaws&logoColor=white)
