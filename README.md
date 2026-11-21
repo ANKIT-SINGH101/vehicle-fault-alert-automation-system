@@ -6,7 +6,9 @@ Every morning, two engineers spent 3–4 hours each going through error spikes o
 
 [![Watch the 30-second demo](media/demo.gif)](media/demo.mp4)
 
-<sub>30-second walkthrough: the operator app, the pipeline, spike classification and safe pattern updates. Silent preview; click for the full video with sound.</sub>
+<sub>30-second walkthrough: the operator app, the pipeline, spike classification and safe pattern updates. Silent preview.</sub>
+
+**Better-quality video (1080p, with sound): [download here](media/demo.mp4?raw=true)**
 
 ![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 ![AWS SAM](https://img.shields.io/badge/AWS%20SAM-IaC-FF9900?logo=amazonaws&logoColor=white)
