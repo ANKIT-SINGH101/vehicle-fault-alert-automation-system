@@ -1,3 +1,5 @@
+![Architecture](media/architecture.png)
+
 # Vehicle Fault Alert Automation System
 
 Every morning, two engineers spent 3–4 hours each going through error spikes on four monitoring dashboards. They checked them minute by minute, copied them into Excel and matched each one by hand against a catalogue of known faults. This system does that work in a single run, and leaves people only the spikes a machine can't classify with confidence.
